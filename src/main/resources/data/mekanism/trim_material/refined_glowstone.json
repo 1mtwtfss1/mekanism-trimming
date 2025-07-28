@@ -1,0 +1,9 @@
+{
+  "asset_name": "mekanism_refined_glowstone",
+  "description": {
+    "color": "#ffeb97",
+    "translate": "trim_material.mekanism.refined_glowstone"
+  },
+  "ingredient": "mekanism:ingot_refined_glowstone",
+  "item_model_index": 0.6
+}

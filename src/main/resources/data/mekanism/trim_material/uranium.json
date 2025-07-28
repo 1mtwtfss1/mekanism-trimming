@@ -1,0 +1,9 @@
+{
+  "asset_name": "mekanism_uranium",
+  "description": {
+    "color": "#a6f6a0",
+    "translate": "trim_material.mekanism.uranium"
+  },
+  "ingredient": "mekanism:ingot_uranium",
+  "item_model_index": 0.7
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "mekanism_lead",
+  "description": {
+    "color": "#89a5a1",
+    "translate": "trim_material.mekanism.lead"
+  },
+  "ingredient": "mekanism:ingot_lead",
+  "item_model_index": 0.2
+}

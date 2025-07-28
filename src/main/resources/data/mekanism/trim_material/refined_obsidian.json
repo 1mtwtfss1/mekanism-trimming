@@ -1,0 +1,9 @@
+{
+  "asset_name": "mekanism_refined_obsidian",
+  "description": {
+    "color": "#7c65ae",
+    "translate": "trim_material.mekanism.refined_obsidian"
+  },
+  "ingredient": "mekanism:ingot_refined_obsidian",
+  "item_model_index": 1.0
+}

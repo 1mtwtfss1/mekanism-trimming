@@ -1,0 +1,9 @@
+{
+  "asset_name": "mekanism_steel",
+  "description": {
+    "color": "#888885",
+    "translate": "trim_material.mekanism.steel"
+  },
+  "ingredient": "mekanism:ingot_steel",
+  "item_model_index": 0.3
+}

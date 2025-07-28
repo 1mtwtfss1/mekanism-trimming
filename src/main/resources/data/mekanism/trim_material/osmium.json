@@ -1,0 +1,9 @@
+{
+  "asset_name": "mekanism_osmium",
+  "description": {
+    "color": "#b1c8c7",
+    "translate": "trim_material.mekanism.osmium"
+  },
+  "ingredient": "mekanism:ingot_osmium",
+  "item_model_index": 0.2
+}

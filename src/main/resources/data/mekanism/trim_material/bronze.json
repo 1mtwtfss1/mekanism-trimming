@@ -1,0 +1,9 @@
+{
+  "asset_name": "mekanism_bronze",
+  "description": {
+    "color": "#ffbf74",
+    "translate": "trim_material.mekanism.bronze"
+  },
+  "ingredient": "mekanism:ingot_bronze",
+  "item_model_index": 0.5
+}
