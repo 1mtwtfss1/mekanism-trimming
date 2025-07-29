@@ -6,5 +6,6 @@
   "trim_material.mekanism.osmium": "Osmium Material",
   "trim_material.mekanism.tin": "Tin Material",
   "trim_material.mekanism.lead": "Lead Material",
-  "trim_material.mekanism.uranium": "Uranium Material"
+  "trim_material.mekanism.uranium": "Uranium Material",
+  "pack.mekanism_trimming.mod.description": "Mekanism Trimming Resources"
 }

@@ -1,7 +1,7 @@
 {
   "asset_name": "mekanism_tin",
   "description": {
-    "color": "#efefef",
+    "color": "#e3d9cb",
     "translate": "trim_material.mekanism.tin"
   },
   "ingredient": "mekanism:ingot_tin",
